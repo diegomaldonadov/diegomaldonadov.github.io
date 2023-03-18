@@ -1,0 +1,28 @@
+.logo-container {
+  z-index: 0;
+  width: 400px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin-left: 700px;
+  margin-top: 180px;
+}
+
+.logo-animate {
+  width: 80%;
+  display: inline-block;
+  opacity: 0;
+  animation: bounceIn 1s 1s;
+  animation-fill-mode: forwards;
+}
+
+.logo-animate-hover {
+  width: 80%;
+  display: inline-block;
+  animation-fill-mode: both;
+
+  &:hover {
+    animation: rubberBand 1s;
+    color: #ffd700;
+  }
+}
