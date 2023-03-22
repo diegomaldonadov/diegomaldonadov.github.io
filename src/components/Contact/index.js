@@ -54,7 +54,7 @@ const Contact = () => {
             Feel free to get in touch! I'm always looking for new and exciting
             projects to work on, you can contact me through the form on this
             page, or by emailing me directly. I'll get back to you as soon as
-            possible. Thank you for taking the time to view my portfolio!
+            possible. Thank you for taking the time to see my portfolio!
           </p>
           <div className="contact-form ">
             <form ref={refForm} onSubmit={sendEmailHandler}>
