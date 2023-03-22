@@ -2,6 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://diegomaldonadov.github.io/diegomaldonadov.github.io",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@fortawesome/free-brands-svg-icons": "^6.3.0",
@@ -11,6 +12,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "animate.css": "^4.1.1",
+    "gh-pages": "^5.0.0",
     "gsap-trial": "^3.11.4",
     "leaflet": "^1.9.3",
     "loaders.css": "^0.1.2",
@@ -23,7 +25,6 @@
     "sass": "^1.59.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://diegomaldonadov.github.io/diegomaldonadov.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
