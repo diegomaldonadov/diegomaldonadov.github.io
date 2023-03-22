@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/diegomaldonadov/diegomaldonadov.github.io.git/static/css/main.207075b2.css",
+    "main.css": "/diegomaldonadov/diegomaldonadov.github.io.git/static/css/main.8ea47051.css",
     "main.js": "/diegomaldonadov/diegomaldonadov.github.io.git/static/js/main.78f8e893.js",
     "static/js/787.a2cb61a6.chunk.js": "/diegomaldonadov/diegomaldonadov.github.io.git/static/js/787.a2cb61a6.chunk.js",
     "static/media/logo-d.png": "/diegomaldonadov/diegomaldonadov.github.io.git/static/media/logo-d.744c43cf9200a09a2bb0.png",
@@ -9,12 +9,12 @@
     "static/media/LaBelleAurore.woff2": "/diegomaldonadov/diegomaldonadov.github.io.git/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/diegomaldonadov/diegomaldonadov.github.io.git/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/diegomaldonadov/diegomaldonadov.github.io.git/index.html",
-    "main.207075b2.css.map": "/diegomaldonadov/diegomaldonadov.github.io.git/static/css/main.207075b2.css.map",
+    "main.8ea47051.css.map": "/diegomaldonadov/diegomaldonadov.github.io.git/static/css/main.8ea47051.css.map",
     "main.78f8e893.js.map": "/diegomaldonadov/diegomaldonadov.github.io.git/static/js/main.78f8e893.js.map",
     "787.a2cb61a6.chunk.js.map": "/diegomaldonadov/diegomaldonadov.github.io.git/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.207075b2.css",
+    "static/css/main.8ea47051.css",
     "static/js/main.78f8e893.js"
   ]
 }
