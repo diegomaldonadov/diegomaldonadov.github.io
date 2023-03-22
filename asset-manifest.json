@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/diegomaldonadov.github.io/static/css/main.65fe0fe0.css",
-    "main.js": "/diegomaldonadov.github.io/static/js/main.62090c98.js",
+    "main.js": "/diegomaldonadov.github.io/static/js/main.c4480601.js",
     "static/js/787.a2cb61a6.chunk.js": "/diegomaldonadov.github.io/static/js/787.a2cb61a6.chunk.js",
     "static/media/logo-d.png": "/diegomaldonadov.github.io/static/media/logo-d.744c43cf9200a09a2bb0.png",
     "static/media/logo_sub.png": "/diegomaldonadov.github.io/static/media/logo_sub.fb09fd47426133ca3205.png",
@@ -10,11 +10,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/diegomaldonadov.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/diegomaldonadov.github.io/index.html",
     "main.65fe0fe0.css.map": "/diegomaldonadov.github.io/static/css/main.65fe0fe0.css.map",
-    "main.62090c98.js.map": "/diegomaldonadov.github.io/static/js/main.62090c98.js.map",
+    "main.c4480601.js.map": "/diegomaldonadov.github.io/static/js/main.c4480601.js.map",
     "787.a2cb61a6.chunk.js.map": "/diegomaldonadov.github.io/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65fe0fe0.css",
-    "static/js/main.62090c98.js"
+    "static/js/main.c4480601.js"
   ]
 }
